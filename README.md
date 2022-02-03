@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 Project Team Members:
-Mariana Ochoa 
+Mari Ochoa
 # lab3-practicing-git-
 =======
 # lab3-practicing-git-
