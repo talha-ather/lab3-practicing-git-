@@ -1,3 +1,4 @@
-# lab3-practicing-git-
-Project Team Members: 
+Project Team Members:
 Riley Slover
+Mari Ochoa
+Talha Ather
