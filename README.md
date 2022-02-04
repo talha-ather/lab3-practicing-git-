@@ -1,2 +1,3 @@
 # lab3-practicing-git-
-Project Team Members: 
+Project Team Members:
+Mariana Ochoa
